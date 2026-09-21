@@ -8,8 +8,8 @@
   "logo": "https://s3.bmp.ovh/2026/06/01/cI0ZYjAQ.jpg",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "请勿演示贩卖",
+      "key": "霆威金阁",
+      "name": "老郭专用频道",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
