@@ -165,16 +165,16 @@
             "name": "肥猫(临时)"
         },
         {
-            "url": "clan://localhost/tv/twjg.json",
-            "name": "本地仓线路"
+            "url": "clan://localhost/tv/1.json",
+            "name": "本地仓线路1"
         },
         {
-            "url": "clan://localhost/tv/twjg.json",
-            "name": "本地仓线路"
+            "url": "clan://localhost/tv/2.json",
+            "name": "本地仓线路2"
         },
         {
-            "url": "clan://localhost/tv/twjg.json",
-            "name": "本地仓线路"
+            "url": "clan://localhost/tv/3.json",
+            "name": "本地仓线路3"
         },
         {
             "url": "clan://localhost/tv/twjg18.json",
