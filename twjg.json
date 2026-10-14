@@ -77,10 +77,9 @@
             "name": "王二小"
         },
         {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/8.html",
-            "name": "王二小(欧歌线)"
+            "url": "clan://localhost/tv/kulao.json",
+            "name": "裤佬(本地源)"
         },
-        {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/xyq254245\/xyqonlinerule\/main\/XYQTVBox.json",
             "name": "香雅情"
         },
@@ -341,11 +340,11 @@
             "name": "杰哥(欧歌线)"
         },
         {
-            "url": "cclan://localhost/tv/twjg18.json",
+            "url": "clan://localhost/tv/twjg18.json",
             "name": "本地仓线路"
         },
         {
-            "url": "hclan://localhost/xmbjm/ah/ah.json",
+            "url": "clan://localhost/xmbjm/ah/ah.json",
             "name": "本地仓1线路"
         },
         {
