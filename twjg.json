@@ -61,8 +61,8 @@
             "name": "荷城茶秀"
         },
         {
-            "url": "https://jihulab.com/z-blog/xh2/raw/main/t.json",
-            "name": "荷城茶秀(备用)"
+            "url": "clan://localhost/xmbjm/ouge/ouge.json",
+            "name": "讴歌(本地源)"
         },
         {
             "url": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
