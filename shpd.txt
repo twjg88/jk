@@ -1,0 +1,285 @@
+#EXTM3U
+#EXT‑INF:-1 group‑title="上海",上海新闻HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海新闻HD
+http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海新闻HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=shxwhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",上海新闻HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=shxwhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",上海新闻HD
+http://121.199.48.54/live1/bstv.m3u8?id=shxwhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",上海新闻HD
+http://38.75.136.137:82/live2/shkk.m3u8?id=shxwhd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",东方影视HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方影视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方影视HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=shdsjhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",东方影视HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=shdsjhd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",上海都市HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海都市HD
+http://117.135.56.6:6060/cms001/ch00000090990000001015/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海都市HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=shylhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",上海都市HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=shylhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",上海都市HD
+http://38.75.136.137:82/live2/shkk.m3u8?id=shylhd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",五星体育HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
+#EXT‑INF:-1 group‑title="上海",五星体育HD
+http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
+#EXT‑INF:-1 group‑title="上海",五星体育HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=wxtyhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",五星体育HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=wxtyhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",五星体育HD
+http://38.75.136.137:82/live2/shkk.m3u8?id=wxtyhd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",游戏风云HD
+http://117.135.56.6:6060/cms001/ch00000090990000001192/index.m3u8
+#EXT‑INF:-1 group‑title="上海",游戏风云HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
+#EXT‑INF:-1 group‑title="上海",游戏风云HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=yxfyhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",游戏风云HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=yxfyhd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",生活时尚HD
+http://117.135.56.6:6060/cms001/ch00000090990000001199/index.m3u8
+#EXT‑INF:-1 group‑title="上海",生活时尚HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
+#EXT‑INF:-1 group‑title="上海",生活时尚HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=shsshd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",生活时尚HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=shsshd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",劲爆体育HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=jbtyhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",劲爆体育HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=jbtyhd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",第一财经HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
+#EXT‑INF:-1 group‑title="上海",第一财经HD
+http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
+#EXT‑INF:-1 group‑title="上海",第一财经HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=dycjhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",第一财经HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=dycjhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",第一财经HD
+http://121.199.48.54/live1/yicai.m3u8?id=dycjhd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",第一财经HD
+http://121.199.48.54/live1/yicai.m3u8?id=dycjhda&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",第一财经HD
+http://38.75.136.137:82/live2/shkk.m3u8?id=dycjhd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",都市剧场HD
+http://117.135.56.6:6060/cms001/ch00000090990000001203/index.m3u8
+#EXT‑INF:-1 group‑title="上海",都市剧场HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
+#EXT‑INF:-1 group‑title="上海",都市剧场HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=dsjchd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",都市剧场HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=dsjchd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",多彩文体HD
+http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
+#EXT‑INF:-1 group‑title="上海",多彩文体HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
+#EXT‑INF:-1 group‑title="上海",多彩文体HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=hxjchd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",多彩文体HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=hxjchd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",动漫秀场HD
+http://117.135.56.6:6060/cms001/ch00000090990000001196/index.m3u8
+#EXT‑INF:-1 group‑title="上海",动漫秀场HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
+#EXT‑INF:-1 group‑title="上海",动漫秀场HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=dmxchd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",动漫秀场HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=dmxchd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",乐游频道HD
+http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
+#EXT‑INF:-1 group‑title="上海",乐游频道HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
+#EXT‑INF:-1 group‑title="上海",乐游频道HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=qjshd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",乐游频道HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=qjshd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",新视觉HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=xsj&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",新视觉HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=xsj&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",哈哈炫动HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=xdkthd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",哈哈炫动HD
+http://121.199.48.54/live1/jsbv1.m3u8?id=xdkthd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",哈哈炫动HD
+http://38.75.136.137:82/live2/shkk.m3u8?id=xdkt&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",东方财经
+http://117.135.56.6:6060/cms001/ch00000090990000001318/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方财经
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方财经
+http://121.199.48.54/live1/jsbv2b.m3u8?id=dfcj&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",东方财经
+http://121.199.48.54/live1/jsbv1.m3u8?id=dfcj&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",东方财经
+http://121.199.48.54/live1/yicai.m3u8?id=dfcja&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",东方财经
+http://121.199.48.54/live1/yicai.m3u8?id=dfcj&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",法治天地
+http://117.135.56.6:6060/cms001/ch00000090990000001195/index.m3u8
+#EXT‑INF:-1 group‑title="上海",法治天地
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001111/index.m3u8
+#EXT‑INF:-1 group‑title="上海",法治天地
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
+#EXT‑INF:-1 group‑title="上海",法治天地
+http://117.135.56.6:6060/cms001/ch00000090990000001111/index.m3u8
+#EXT‑INF:-1 group‑title="上海",法治天地
+http://121.199.48.54/live1/jsbv2b.m3u8?id=fztd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",法治天地
+http://121.199.48.54/live1/jsbv1.m3u8?id=fztd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",金色学堂
+http://117.135.56.6:6060/cms001/ch00000090990000001194/index.m3u8
+#EXT‑INF:-1 group‑title="上海",金色学堂
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001106/index.m3u8
+#EXT‑INF:-1 group‑title="上海",金色学堂
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
+#EXT‑INF:-1 group‑title="上海",金色学堂
+http://117.135.56.6:6060/cms001/ch00000090990000001106/index.m3u8
+#EXT‑INF:-1 group‑title="上海",金色学堂
+http://121.199.48.54/live1/jsbv2b.m3u8?id=jspd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",金色学堂
+http://121.199.48.54/live1/jsbv1.m3u8?id=jspd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",魔都眼
+http://38.75.136.137:82/live2/shkk.m3u8?id=shmdy&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",新纪实
+http://38.75.136.137:82/live2/shkk.m3u8?id=xjspd&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",上海新闻综合
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001006/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海新闻综合
+http://117.135.56.6:6060/cms001/ch00000090990000001006/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",东方影视
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001046/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方影视
+http://117.135.56.6:6060/cms001/ch00000090990000001046/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",生活时尚
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001117/index.m3u8
+#EXT‑INF:-1 group‑title="上海",生活时尚
+http://117.135.56.6:6060/cms001/ch00000090990000001117/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",五星体育
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001049/index.m3u8
+#EXT‑INF:-1 group‑title="上海",五星体育
+http://117.135.56.6:6060/cms001/ch00000090990000001049/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",第一财经
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001048/index.m3u8
+#EXT‑INF:-1 group‑title="上海",第一财经
+http://117.135.56.6:6060/cms001/ch00000090990000001048/index.m3u8
+#EXT‑INF:-1 group‑title="上海",第一财经
+http://121.199.48.54/live1/yicai.m3u8?id=dycj&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",第一财经
+http://121.199.48.54/live1/yicai.m3u8?id=dycja&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",上海都市
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001005/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海都市
+http://117.135.56.6:6060/cms001/ch00000090990000001005/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",上海教育
+http://117.135.56.6:6060/cms001/ch00000090990000001268/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海教育
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001053/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海教育
+http://117.135.56.6:6060/cms001/ch00000090990000001053/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海教育
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
+#EXT‑INF:-1 group‑title="上海",上海教育
+http://121.199.48.54/live1/jsbv2b.m3u8?id=shjy&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",上海教育
+http://121.199.48.54/live1/jsbv1.m3u8?id=shjy&usign=kQjXhJz8V5_O4s89ekGCjg
+
+#EXT‑INF:-1 group‑title="上海",哈哈炫动
+http://117.135.56.6:6060/cms001/ch00000090990000001232/index.m3u8
+#EXT‑INF:-1 group‑title="上海",哈哈炫动
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001104/index.m3u8
+#EXT‑INF:-1 group‑title="上海",哈哈炫动
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8
+#EXT‑INF:-1 group‑title="上海",哈哈炫动
+http://117.135.56.6:6060/cms001/ch00000090990000001104/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",都市剧场
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001107/index.m3u8
+#EXT‑INF:-1 group‑title="上海",都市剧场
+http://117.135.56.6:6060/cms001/ch00000090990000001107/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",动漫秀场
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001108/index.m3u8
+#EXT‑INF:-1 group‑title="上海",动漫秀场
+http://117.135.56.6:6060/cms001/ch00000090990000001108/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",游戏风云
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001114/index.m3u8
+#EXT‑INF:-1 group‑title="上海",游戏风云
+http://117.135.56.6:6060/cms001/ch00000090990000001114/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",乐游频道
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001110/index.m3u8
+#EXT‑INF:-1 group‑title="上海",乐游频道
+http://117.135.56.6:6060/cms001/ch00000090990000001110/index.m3u8
+
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001120/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001121/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://117.135.56.6:6060/cms001/ch00000090990000001039/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://117.135.56.6:6060/cms001/ch00000090990000001120/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://117.135.56.6:6060/cms001/ch00000090990000001121/index.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXT‑INF:-1 group‑title="上海",东方购物
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+
+#EXT‑INF:-1 group‑title="上海",浦东电视台
+http://38.75.136.137:82/live2/shpdtv.m3u8?id=shpdtv1&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",嘉定电视台
+http://5730.liveplay.myqcloud.com/live/jcmcTV.m3u8
+#EXT‑INF:-1 group‑title="上海",金山电视台
+https://pili‑live‑hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
+#EXT‑INF:-1 group‑title="上海",崇明电视台
+https://p2txnj.njyqkj0ksyz.cc/slowlive/618839028840202594/live.m3u8?zbid=279676481
+
+#EXT‑INF:-1 group‑title="上海",东方卫视HD
+http://121.199.48.54/live1/jsbv2b.m3u8?id=dfwshd&usign=kQjXhJz8V5_O4s89ekGCjg
+#EXT‑INF:-1 group‑title="上海",东方卫视4K
+http://121.199.48.54/live1/jsbv2b.m3u8?id=dfws4k&usign=kQjXhJz8V5_O4s89ekGCjg
